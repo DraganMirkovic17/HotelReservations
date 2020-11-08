@@ -16,7 +16,7 @@ namespace HotelReservations
         //Each guest who will successfully reserve room will get their ID.
         //With that ID, we will know who is in the room. Also we will know what is starting date and ending date.
          int IDGuest = 0;
-        //
+        
          int lastDay = 0;
 
         public Hotel(int size)
